@@ -1,5 +1,5 @@
 # 💫 About Me:
--🎓 B.Tech in Information Technology (Final Year)<br>- 📊 Passionate about **Data Analysis, Business Insights & Decision Making**<br>- 💡 Strong interest in **AML, KYC, Financial Analysis & Business Intelligence**<br>- 📈 Skilled in transforming raw data into **actionable insights**<br>- 🧠 Solved **700+ DSA problems** on LeetCode & GeeksforGeeks<br>- 🎯 Goal: To become a **Data/Business Analyst and contribute to data-driven decisions**<br>
+-🎓 B.Tech in Information Technology (Final Year)<br>- 📊 Passionate about **Data Analysis, Business Insights & Decision Making**<br>- 💡 Strong interest in **AML, KYC, Financial Analysis & Business Intelligence**<br>- 📈 Skilled in transforming raw data into **actionable insights**<br>- 🧠 Solved **300+ DSA problems** on LeetCode & GeeksforGeeks<br>- 🎯 Goal: To become a **Data/Business Analyst and contribute to data-driven decisions**<br>
 
 
 ## 🌐 Socials:
